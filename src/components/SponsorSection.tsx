@@ -7,6 +7,10 @@ const sponsorLinks = [
     sponsorText: "Máster Online en Programación para Creativos LABASAD",
     link: "https://www.labasad.com/master/master-online-en-programacion-para-creativos/",
   },
+  {
+    sponsorText: "Emergent.sh",
+    link: "https://app.emergent.sh/",
+  },
 ];
 
 export function SponsorSection() {
