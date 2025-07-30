@@ -17,7 +17,7 @@ export function SponsorSection() {
   return (
     <div className="flex flex-col items-start justify-start gap-4">
       <BoxReveal boxColor={"#5046e6"} duration={0.5}>
-        <div className="flex flex-col md:flex-row items-start md:items-center justify-start gap-4">
+        <div className="flex flex-col tems-start justify-start gap-4">
           {sponsorLinks.map((sponsor) => (
             <a
               className="underline"
